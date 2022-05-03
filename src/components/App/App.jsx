@@ -1,4 +1,4 @@
-import logo from '../../logo.svg';
+import { default as logo } from '../../logo.svg';
 import './App.css';
 import HelloWorld from "../HelloWorld/HelloWorld";
 import Counter from "../Counter/Counter"
